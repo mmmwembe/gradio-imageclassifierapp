@@ -1,1 +1,1 @@
-# gradio-imageclassifierapp
+# imageclassifierapp
